@@ -1,0 +1,9 @@
+{
+  "name": "PPT 风格克隆",
+  "slug": "ppt-style-clone",
+  "version": "1.0.0",
+  "source": "skillhub",
+  "iconSource": "letter:auto",
+  "description_zh": "一键复刻 PPT / PDF / 截图的视觉风格与排版，把用户自己的内容重排为同风格、可编辑的 HTML。自动提取参考的配色、字体、版式网格与标志性装饰元素（如超大章节数字、竖排描边标题、满底色块、双白线），支持内容偏少时智能扩写，并用无头浏览器自检验排版。适用于「复刻这个 PPT 风格」「照着这份套个新的」「套用 XX 排版」「克隆这份画册的版式」等场景。",
+  "description_en": "Clone the visual style and layout of any reference PPT / PDF / screenshot into a same-style, editable HTML file built from the user's own content. Extracts the reference's color palette, typography, layout grid and signature decorative elements (huge chapter numbers, outlined vertical titles, full-bleed color blocks, double white rules), optionally expands sparse content, and self-verifies layout via headless-browser screenshots. Triggered by requests like 'replicate this PPT style', 'apply this template', 'clone this brochure layout'."
+}
